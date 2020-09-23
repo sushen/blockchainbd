@@ -51,7 +51,7 @@ except:
 
 # No 2 : Change
 # #Replace this with the link of your list
-url = "https://www.linkedin.com/sales/lists/people/6709634433944813568?sortCriteria=CREATED_TIME"
+url = "https://www.linkedin.com/sales/lists/people/6714396769737957376"
 
 driver.get(url)
 time.sleep(waiting_for_page)
