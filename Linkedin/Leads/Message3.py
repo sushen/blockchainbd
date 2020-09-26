@@ -68,7 +68,7 @@ except:
 
 #No 3 : Change
 #Replace this with the link of your list
-url = "https://www.linkedin.com/sales/lists/people/6714413487227072512"
+url = "https://www.linkedin.com/sales/lists/people/6715074435386372096"
 
 driver.get(url)
 time.sleep(waiting_for_page)
